@@ -39,6 +39,6 @@ I was pretty surprised (and relieved) to see the output pictured.
 
 I had a quick check of my publisher profile and lo and behold, there's my extension!
 
-![MarketplaceExtensionsManagement](/images/MarketplaceExtensionsManagement.PNG)
+![YeomanErr](/images/MarketplaceExtensionsManagement.PNG)
 
 Here's my extension: [VBA Snippets](https://marketplace.visualstudio.com/items?itemName=spences10.vba-snippets) from there you can fin the [GitHub](https://github.com/spences10/vba-snippets) repository too, I hope it comes in handy for you one day!
