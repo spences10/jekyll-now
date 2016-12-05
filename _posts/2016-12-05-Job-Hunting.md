@@ -3,7 +3,7 @@ title: Job hunting, class A ballache
 layout: post
 ---
 
-## Job hunting, a class a ballache if you’re not already in full time employment.
+# Job hunting, what I learned.
 
 This is basically a rant about the job market, I was laid off back in August, this is a terrible time of year to be looking for work, everyone is on holiday so things are generally pretty slow so when this happened to me I did the same and went on holiday for the end of August and first week of September. Coming back from holiday I found that things were still pretty slow with the occasional phone call about roles that were not really suited to my skill set. It was at this point that I began to struggle and stress about ever being employed again.
 
@@ -19,9 +19,8 @@ This has basically brought me to the conclusion that I should be expanding my sk
 
 What I found whilst searching for roles is that someone with VBA, SQL and C# there is also the need now for Tableau, ClikView or some other data visualisation software which stands to reason that now we have all this data that we should actually be able to gain some insight from it, this is something I'll be looking into with the scripting language Python (general purpose programming language) once I have progressed with my FCC certification.
 
-## It's an employers market
-
-Another thing which is bad, because it’s an employer’s market (apparently) employers are being very specific about the skills they want potential candidates to have and currently they are driving down the cost of resources with these job specifications, like: C# developer with 5 years commercial experience in x,y,z skills for £37k, that is at very least a mid-senior level role £50k+ but once one of these is on the market then other employers see this and decide to put their role at the same level.  
+>## It's an employers market
+>Another thing which is bad, because it’s an employer’s market (apparently) employers are being very specific about the skills they want potential candidates to have and currently they are driving down the cost of resources with these job specifications, like: C# developer with 5 years commercial experience + x,y,z unrelated skills for £37k, that is at very least a mid-senior level role £50k+ but once one of these is on the market then other employers see this and decide to put their role at the same level.  
 
 ## Lessons learned
 
@@ -38,12 +37,12 @@ So this is where we get all warm and fuzzy talking about recruiters and what gre
 I have worked in the past in the same office as recruiters and understand what they do for a job, and the time and effort needed to find good candidates.
 
 #### What the recruiter says:
-```“hi Scott, just seen your profile and think you will be a really good match for a role I’m recruiting for”```
+>```“hi Scott, just seen your profile and think you will be a really good match for a role I’m recruiting for”```
 
 #### What it actually means:
-```“you have come up in my keyword search and I'm blindly calling you, I haven’t really read your profile”```
+>```“you have come up in my keyword search and I'm blindly calling you, I haven’t really read your profile”```
 
-This was incredibly frustrating experience for me yes I could have done things better and like I said this was basically a rant, this is so people can relate, **BUT!**
+This was incredibly frustrating experience for me, yes I could have done things better and like I said this was basically a rant, this is so people can relate, **BUT!**
 
 Gone are the days of carefully crafted covering letters and tailoring your CV for that specific job, most of the time your CV doesn't even get seen by a human and is instead rejected by an ATS.
 
@@ -51,11 +50,19 @@ If we all went back to the days of trust and real relationships with recruiters 
 
 Just because we have an understanding with a few recruiters doesn't mean that they have the perfect role waiting for us when we start looking for work, although you will be at the top of their list if they do get that role.
 
-What I like and respect in a recruiter is if I can get five minutes into a phone conversation with a recruiter that has actually read my profile/CV
+What I like and respect in a recruiter is if I can get five minutes into a phone conversation with a recruiter that has actually read my profile or my CV.
 
-What you get with recruiters is first a ten minute conversation with you asking you how you’re finding the market and then what your ideal next role will be. Basically what they're doing is the due diligence they should have done looking at your profile before calling you, and the recruiter then being honest with you [in some cases] and telling you they actually don't think you are suitable for the role they called you about tem minutes ago saying that they were really interested in your profile and that you would be a great fit for a role they are recruiting for. The call usually ends with a ```"I'll send the spec through for you to look at let me know what you think"``` and the mail never turns up or the old chestnut ```I'll pass you details on to my colleague\I'll update your details on our database```
+What I found with recruiters is first a ten minute conversation asking me how I'm finding the market and then asking me what my ideal next role would be. 
 
-So now we're near the end of Ranty McRantRant's post, if you made it his far thank you for persevering, if you can relate let me I'd be keen to hear your story.
+This is basically their due diligence, what they should have determined by looking at your profile before calling you.
+
+After this it goes one of two ways, the recruiter then being honest with you [in some cases] and telling you they actually don't think you are suitable for the role (which they could have done if they took the time to read your profile) let's just bear in mind ten minutes before it was, 
+
+>## "Hi Scott, just seen your profile on LinkedIn and I'm really keen to talk to you about a role with one of our very high profile clients I'm recruiting for."
+
+The call usually ends with a ```"I'll send the spec through for you to look at let me know what you think"``` and the mail never turns up or the old chestnut ```I'll pass you details on to my colleague\I'll update your details on our database```
+
+So now we're near the end of Ranty McRantRant's post, if you made it his far thank you for persevering, if you can relate I'd be keen to hear your story.
 
 Take a look at these posts too which have partly motivated me to make this post:
 
@@ -64,5 +71,5 @@ LinkedIn:
 * ["If a Recruiter Sh*ts in the woods and nobody is around to hear it?"](https://www.linkedin.com/pulse/recruiter-shts-woods-nobody-around-hear-tim-chattaway)
 
 Medium:
-
+* [Lessons From My Post-bootcamp Job Search in London](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.ckpg5lkpa)
 
