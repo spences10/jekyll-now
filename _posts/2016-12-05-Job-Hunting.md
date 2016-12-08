@@ -24,7 +24,7 @@ What I found whilst searching for roles is that someone with VBA, SQL and C# the
 
 ## Lessons learned
 
-Things I have learned, most of the time the job doesn't exist (lead generation) 
+Things I have learned, most of the time the job doesn't exist (lead generation)
 If it does exist and you match one of the skills on the spec you will have every resourcer in the country [and abroad] calling you for the role.
 Wild salary ranges £40k-£80k that’s a pretty big range, these ads usually come with every skill imaginable so it's safe to say that they don't really know what they want or the role doesn't really exist.
 
@@ -37,9 +37,11 @@ So this is where we get all warm and fuzzy talking about recruiters and what gre
 I have worked in the past in the same office as recruiters and understand what they do for a job, and the time and effort needed to find good candidates.
 
 #### What the recruiter says:
+
 >```“hi Scott, just seen your profile and think you will be a really good match for a role I’m recruiting for”```
 
 #### What it actually means:
+
 >```“you have come up in my keyword search and I'm blindly calling you, I haven’t really read your profile”```
 
 This was incredibly frustrating experience for me, yes I could have done things better and like I said this was basically a rant, this is so people can relate, **BUT!**
@@ -67,9 +69,10 @@ So now we're near the end of Ranty McRantRant's post, if you made it his far tha
 Take a look at these posts too which have partly motivated me to make this post:
 
 LinkedIn:
+
 * ["Recruitment industry will die in 2018."](https://www.linkedin.com/pulse/recruitment-industry-die-2018-oleg-vishnepolsky)
 * ["If a Recruiter Sh*ts in the woods and nobody is around to hear it?"](https://www.linkedin.com/pulse/recruiter-shts-woods-nobody-around-hear-tim-chattaway)
 
 Medium:
-* [Lessons From My Post-bootcamp Job Search in London](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.ckpg5lkpa)
 
+* [Lessons From My Post-bootcamp Job Search in London](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.ckpg5lkpa)
